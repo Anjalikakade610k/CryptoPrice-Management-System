@@ -1,4 +1,4 @@
-###Cryptocurrency Price Management Desktop Application
+Cryptocurrency Price Management Desktop Application
 
 This is a desktop application built with Java Swing that allows users to manage their cryptocurrency prices and trade cryptocurrencies in real-time. The application is designed to provide an intuitive user interface that makes it easy for users to navigate and perform various tasks.
 
